@@ -1,4 +1,4 @@
-source:       .
+﻿source:       .
 destination:  ./_site
 plugins:      ./_plugins
 layouts:      ./_layouts
@@ -86,24 +86,6 @@ follow:
 
 #Links
 customLinks:
-  - item:
-    - text: Unity
-      url: http://droidyue.com/
-    - text: Unreal Engin
-      url: https://www.unrealengine.com/zh-CN
-     message: Friends    
-  - item:
-    - text: Java Code Geeks
-      url: http://www.javacodegeeks.com/
-    - text: Web Developer
-      url: http://www.fromdev.com/
-    - text: BeginnersBook
-      url: http://beginnersbook.com/
-    - text: Mkyong
-      url: http://www.mkyong.com/
-    - text: Java By Nataraj
-      url: http://javabynataraj.blogspot.in/
-    message: About Java
 
 #googleAnaly, your id link UA-12345678-X
 googleAnaly:
