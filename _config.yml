@@ -1,4 +1,3 @@
-# Where things are
 source:       .
 destination:  ./_site
 plugins:      ./_plugins
@@ -39,12 +38,12 @@ timezone:      null
 
 
 #Site config
-title: 9leg
-description: java,scala
-keywords: java,scala
-url: http://9leg.com
+title: AiLi.Shang
+description: Nothing，Everything
+keywords: CodeMonkey
+url: http://specialsal.github.io
 feed: /atom.xml
-favicon: /images/shortcut.jpg
+favicon: /images/header.png
 
 #Nav config
 nav:
@@ -61,13 +60,13 @@ nav:
 
 #Author config
 author:
-    name: zhujiajun
-    email: zhujiajun.me@gmail.com
-    imageLink: /images/header.jpg
-    simpleIntro: I Have a Dream
+    name: AiLi.Shang
+    email: 502039533@qq.com
+    imageLink: /images/header.png
+    simpleIntro: Nothing，Everything
     detailIntro:
-      <p>广告界的程序猿</p>
-      <p>主要使用Java,会一点Android,不断学习Scala[好牛逼]...</p>
+      <p>程序媛</p>
+      <p></p>
       <p></p>
 
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
@@ -79,7 +78,7 @@ follow:
   - class: icon-facebook
     url: http://facebook.com/
   - class: icon-github-alt
-    url: https://github.com/zJiaJun/
+    url: https://github.com/specialsal/
   - class: icon-twitter
     url: http://twitter.com/
   - class: icon-google-plus
@@ -88,13 +87,11 @@ follow:
 #Links
 customLinks:
   - item:
-    - text: 技术小黑屋
+    - text: Unity
       url: http://droidyue.com/
-    - text: Jekyll
-      url: http://jekyllrb.com
-    - text: Jekyll Theme
-      url: http://www.zhanxin.info/themes.html
-    message: Friends    
+    - text: Unreal Engin
+      url: https://www.unrealengine.com/zh-CN
+     message: Friends    
   - item:
     - text: Java Code Geeks
       url: http://www.javacodegeeks.com/
@@ -111,12 +108,12 @@ customLinks:
 #googleAnaly, your id link UA-12345678-X
 googleAnaly:
   config: false
-  id: UA-58146229-1
+  id: 
 
 #baidu tongji
 baiduTongji:
   config: true
-  id: c12b560f0372d5995701449b9eac606c
+  id: 
 
 #comment config
 disqus:
