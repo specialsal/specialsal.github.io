@@ -1,4 +1,4 @@
-﻿source:       .
+source:       .
 destination:  ./_site
 plugins:      ./_plugins
 layouts:      ./_layouts
@@ -41,7 +41,7 @@ timezone:      null
 title: AiLi.Shang
 description: Nothing，Everything
 keywords: CodeMonkey
-url: http://specialsal.github.io
+url: https://specialsal.github.io
 feed: /atom.xml
 favicon: /images/header.png
 
@@ -90,21 +90,21 @@ customLinks:
 #googleAnaly, your id link UA-12345678-X
 googleAnaly:
   config: false
-  id: 
+  id: 615f5118521d75759f61e644442d5a7d
 
 #baidu tongji
 baiduTongji:
   config: true
-  id: 
+  id: 615f5118521d75759f61e644442d5a7d
 
 #comment config
 disqus:
   config: false
-  id: piznblog
+  id:
 
 duoshuo:
   config: true
-  id: 9leg
+  id:
 
 #baidu share config
 baiduShare:
