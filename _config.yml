@@ -90,23 +90,10 @@ customLinks:
 #googleAnaly, your id link UA-12345678-X
 googleAnaly:
   config: false
-  id: 615f5118521d75759f61e644442d5a7d
+  id: UA-89670912-1
 
 #baidu tongji
 baiduTongji:
   config: true
   id: 615f5118521d75759f61e644442d5a7d
-
-#comment config
-disqus:
-  config: false
-  id:
-
-duoshuo:
-  config: true
-  id:
-
-#baidu share config
-baiduShare:
-  config: true
   
